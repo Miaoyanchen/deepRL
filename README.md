@@ -5,7 +5,7 @@ This project aims to provide a clear summary of deep reinforcement learning, whi
 **Title:** "Human-level control through deep reinforcement learning"  
 **Authors:** Volodymyr Mnih, Koray Kavukcuoglu, David Silver, et al.  
 **Published:** 25 February 2015  
-**Link:** [Nature Paper](https://www.nature.com/articles/nature14236#citeas)
+**Link:** [Nature Paper](https://www.nature.com/articles/nature14236)
 
 ## Preamble
 
