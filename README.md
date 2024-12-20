@@ -32,7 +32,7 @@ Deep reinforcement learning extends these concepts by integrating deep neural ne
 
 ## Reinforcement Learning Process
 
-![Visualization of Reinforcement Learning](diagram.png)
+![Visualization of Reinforcement Learning](docs/diagram.png)
 
 *Figure: Basic Structure of Reinforcement Learning*
 
